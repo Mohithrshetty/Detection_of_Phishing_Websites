@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/0e5f9e641b7647c89d28a9fa44774355/artifacts
+end_time: 1732622430702
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: 0e5f9e641b7647c89d28a9fa44774355
+run_name: LogisticRegression
+run_uuid: 0e5f9e641b7647c89d28a9fa44774355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622428442
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs

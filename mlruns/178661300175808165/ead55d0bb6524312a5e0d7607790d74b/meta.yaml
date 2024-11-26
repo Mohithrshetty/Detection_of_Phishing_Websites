@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/ead55d0bb6524312a5e0d7607790d74b/artifacts
+end_time: 1732622400620
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: ead55d0bb6524312a5e0d7607790d74b
+run_name: RandomForest
+run_uuid: ead55d0bb6524312a5e0d7607790d74b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622398091
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/e53f2c05c7c84f7ab8d38d5f172f17a4/artifacts
+end_time: 1732622598111
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: e53f2c05c7c84f7ab8d38d5f172f17a4
+run_name: NeuralNetwork
+run_uuid: e53f2c05c7c84f7ab8d38d5f172f17a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622595655
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs

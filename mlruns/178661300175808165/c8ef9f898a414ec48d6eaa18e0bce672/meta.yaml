@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/c8ef9f898a414ec48d6eaa18e0bce672/artifacts
+end_time: 1732622630433
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: c8ef9f898a414ec48d6eaa18e0bce672
+run_name: XGBoost
+run_uuid: c8ef9f898a414ec48d6eaa18e0bce672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622627914
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs

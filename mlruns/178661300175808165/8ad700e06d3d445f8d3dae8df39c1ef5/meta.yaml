@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/8ad700e06d3d445f8d3dae8df39c1ef5/artifacts
+end_time: 1732622391324
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: 8ad700e06d3d445f8d3dae8df39c1ef5
+run_name: SVM
+run_uuid: 8ad700e06d3d445f8d3dae8df39c1ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622386043
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs

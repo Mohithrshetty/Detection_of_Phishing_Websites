@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/9a21ab25832e4b6694d6580f8373d035/artifacts
+end_time: 1732622414416
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: 9a21ab25832e4b6694d6580f8373d035
+run_name: NaiveBayes
+run_uuid: 9a21ab25832e4b6694d6580f8373d035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622412270
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs

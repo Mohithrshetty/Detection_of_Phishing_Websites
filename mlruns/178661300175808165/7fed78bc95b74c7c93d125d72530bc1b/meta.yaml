@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohit/OneDrive/Desktop/projectFinalyr/mlruns/178661300175808165/7fed78bc95b74c7c93d125d72530bc1b/artifacts
+end_time: 1732622583955
+entry_point_name: ''
+experiment_id: '178661300175808165'
+lifecycle_stage: active
+run_id: 7fed78bc95b74c7c93d125d72530bc1b
+run_name: AdaBoost
+run_uuid: 7fed78bc95b74c7c93d125d72530bc1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732622581503
+status: 3
+tags: []
+user_id: C:\Program Files\nodejs
